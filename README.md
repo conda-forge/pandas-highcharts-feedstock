@@ -11,6 +11,18 @@ Summary: pandas-highcharts is a Python package which allows you to easily build 
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pandas-highcharts-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pandas-highcharts-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/pandas-highcharts-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pandas-highcharts-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pandas-highcharts-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pandas-highcharts-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pandas-highcharts/badges/version.svg)](https://anaconda.org/conda-forge/pandas-highcharts)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pandas-highcharts/badges/downloads.svg)](https://anaconda.org/conda-forge/pandas-highcharts)
+
 Installing pandas-highcharts
 ============================
 
@@ -66,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pandas-highcharts-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pandas-highcharts-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pandas-highcharts-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pandas-highcharts-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pandas-highcharts-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pandas-highcharts-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pandas-highcharts/badges/version.svg)](https://anaconda.org/conda-forge/pandas-highcharts)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pandas-highcharts/badges/downloads.svg)](https://anaconda.org/conda-forge/pandas-highcharts)
 
 
 Updating pandas-highcharts-feedstock
