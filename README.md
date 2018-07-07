@@ -14,14 +14,15 @@ Summary: pandas-highcharts is a Python package which allows you to easily build 
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pandas-highcharts-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pandas-highcharts-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pandas-highcharts-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pandas-highcharts-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pandas-highcharts-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pandas-highcharts-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pandas-highcharts-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pandas-highcharts-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pandas-highcharts/badges/version.svg)](https://anaconda.org/conda-forge/pandas-highcharts)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pandas-highcharts/badges/downloads.svg)](https://anaconda.org/conda-forge/pandas-highcharts)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pandas--highcharts-green.svg)](https://anaconda.org/conda-forge/pandas-highcharts) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pandas-highcharts.svg)](https://anaconda.org/conda-forge/pandas-highcharts) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pandas-highcharts.svg)](https://anaconda.org/conda-forge/pandas-highcharts) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pandas-highcharts.svg)](https://anaconda.org/conda-forge/pandas-highcharts) |
 
 Installing pandas-highcharts
 ============================
